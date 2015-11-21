@@ -228,3 +228,15 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# Common files to ignore
+*.swp
+*.zip
+*.suo
+*.user
+Cube/Cube/bin
+Cube/CubeContent/bin
+Cube/Cube/obj
+Cube/CubeContent/obj
+*.cachefile
+*.ccgame
